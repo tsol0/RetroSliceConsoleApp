@@ -1,0 +1,14 @@
+C:\Users\tsolo\Desktop\RetroSliceApplication\bin\Debug\net8.0\RetroSliceApplication.exe
+C:\Users\tsolo\Desktop\RetroSliceApplication\bin\Debug\net8.0\RetroSliceApplication.deps.json
+C:\Users\tsolo\Desktop\RetroSliceApplication\bin\Debug\net8.0\RetroSliceApplication.runtimeconfig.json
+C:\Users\tsolo\Desktop\RetroSliceApplication\bin\Debug\net8.0\RetroSliceApplication.dll
+C:\Users\tsolo\Desktop\RetroSliceApplication\bin\Debug\net8.0\RetroSliceApplication.pdb
+C:\Users\tsolo\Desktop\RetroSliceApplication\obj\Debug\net8.0\RetroSliceApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsolo\Desktop\RetroSliceApplication\obj\Debug\net8.0\RetroSliceApplication.AssemblyInfoInputs.cache
+C:\Users\tsolo\Desktop\RetroSliceApplication\obj\Debug\net8.0\RetroSliceApplication.AssemblyInfo.cs
+C:\Users\tsolo\Desktop\RetroSliceApplication\obj\Debug\net8.0\RetroSliceApplication.csproj.CoreCompileInputs.cache
+C:\Users\tsolo\Desktop\RetroSliceApplication\obj\Debug\net8.0\RetroSliceApplication.dll
+C:\Users\tsolo\Desktop\RetroSliceApplication\obj\Debug\net8.0\refint\RetroSliceApplication.dll
+C:\Users\tsolo\Desktop\RetroSliceApplication\obj\Debug\net8.0\RetroSliceApplication.pdb
+C:\Users\tsolo\Desktop\RetroSliceApplication\obj\Debug\net8.0\RetroSliceApplication.genruntimeconfig.cache
+C:\Users\tsolo\Desktop\RetroSliceApplication\obj\Debug\net8.0\ref\RetroSliceApplication.dll
