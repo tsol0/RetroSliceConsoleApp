@@ -12,7 +12,7 @@ namespace RetroSliceApplication
         static void Main(string[] args)
         {
             RunApp();
-            //Application by Lerato Mathebe (602243), Lesedi Mhlongo 602183, Manqoba Mbambo (601276), Tsolo Khambule (578682)
+            //Application by Lerato, Lesedi Mhlongo, Manqoba Mbambo, Tsolo Khambule
         }
         private static void RunApp()
         {
